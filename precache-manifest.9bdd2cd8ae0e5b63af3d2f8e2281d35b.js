@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1382ac0965a2021e1f240d2ea8abfc60",
+    "revision": "200cc5130d6598256aa3d8ef64590d6d",
     "url": "/revealjs-react-boilerplate/index.html"
   },
   {
-    "revision": "209f8a39efcb1426ae82",
-    "url": "/revealjs-react-boilerplate/static/css/2.f5eca524.chunk.css"
+    "revision": "2d05fa4ca6373ad027b1",
+    "url": "/revealjs-react-boilerplate/static/css/2.25c39244.chunk.css"
   },
   {
-    "revision": "2a3b7838c5ce3296b030",
-    "url": "/revealjs-react-boilerplate/static/css/main.4c1dfd73.chunk.css"
+    "revision": "4d6ac98d446dfb24c6d2",
+    "url": "/revealjs-react-boilerplate/static/css/main.df0fbd03.chunk.css"
   },
   {
-    "revision": "209f8a39efcb1426ae82",
-    "url": "/revealjs-react-boilerplate/static/js/2.7cc6788c.chunk.js"
+    "revision": "2d05fa4ca6373ad027b1",
+    "url": "/revealjs-react-boilerplate/static/js/2.ec791e4d.chunk.js"
   },
   {
-    "revision": "2a3b7838c5ce3296b030",
-    "url": "/revealjs-react-boilerplate/static/js/main.da008c67.chunk.js"
+    "revision": "4d6ac98d446dfb24c6d2",
+    "url": "/revealjs-react-boilerplate/static/js/main.b605bd73.chunk.js"
   },
   {
     "revision": "c689772ec3e79b2f00e5",
