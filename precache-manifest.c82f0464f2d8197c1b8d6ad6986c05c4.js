@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "055ff7a62f39eb2100af1a183d840900",
+    "revision": "1382ac0965a2021e1f240d2ea8abfc60",
     "url": "/revealjs-react-boilerplate/index.html"
   },
   {
