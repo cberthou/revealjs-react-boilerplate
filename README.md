@@ -25,3 +25,21 @@ You are ready to go
 ```bash
 yarn start
 ```
+
+## Configuring
+
+### Syntax highlighting
+
+Syntax highlighting is configured in `src/highlightLanguages.js`. You can set the theme from `highlight.js` and 
+load the required languages here.
+
+Then, to create an highlighted code block, you can do :
+```javascript
+const codeExample = `function aFunction() {
+    const value = 10;
+
+    return value;
+}`;
+
+return <Lowlight value={codeExample} language="js" />
+```

@@ -1,5 +1,8 @@
 import React from 'react';
 import './App.scss';
+// Setup for Lowlight syntax highlighting
+import './highlightLanguages';
+
 import Deck from './Components/RevealComponents/Deck';
 import Slide from './Components/RevealComponents/Slide';
 import Slides from './Slides';

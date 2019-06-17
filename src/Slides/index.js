@@ -3,6 +3,6 @@ import TitleSlide from './TitleSlide';
 import FirstSlide from './FirstSlide';
 
 export default [
-    <TitleSlide/>,
-    <FirstSlide/>
+    <TitleSlide key="title"/>,
+    <FirstSlide key="first"/>
 ];
