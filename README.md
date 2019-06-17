@@ -4,3 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project is a boilerplate for creating revealJS presentations using React.
 All the basic create-react-app commands are available.
+
+## Example
+
+A demo can be found [here](https://cberthou.github.io/revealjs-react-boilerplate/)
