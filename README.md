@@ -43,3 +43,12 @@ const codeExample = `function aFunction() {
 
 return <Lowlight value={codeExample} language="js" />
 ```
+
+### Changing the theme
+
+To change the CSS theme of your slide deck, you can import the correct reveal.js theme in `App.js`.
+```
+import 'reveal.js/css/theme/solarized.css';
+```
+
+You can also create your own theme. Check the [reveal.js repository](https://github.com/hakimel/reveal.js/) to do so.

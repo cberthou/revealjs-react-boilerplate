@@ -7,6 +7,9 @@ import Deck from './Components/RevealComponents/Deck';
 import Slide from './Components/RevealComponents/Slide';
 import Slides from './Slides';
 
+// Setup the slide theme
+import 'reveal.js/css/theme/solarized.css';
+
 function App() {
   return (
     <div className="App">
