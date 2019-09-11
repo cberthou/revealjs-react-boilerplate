@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.scss';
-// Setup for Lowlight syntax highlighting
-import './highlightLanguages';
+
+import './Themes/darcula.css';
 
 import Deck from './Components/RevealComponents/Deck';
 import Slide from './Components/RevealComponents/Slide';

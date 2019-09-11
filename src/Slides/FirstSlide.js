@@ -1,18 +1,18 @@
 import React from 'react';
 import Slide from '../Components/RevealComponents/Slide';
-import Lowlight from 'react-lowlight';
+import JSX from "../Components/Highlight/JSX";
 
-const codeExample = `function aFunction() {
-    const value = 10;
-
-    return value;
-}`;
+const demoCode = `const basicComponent = () => (
+    <h1>This is a basic component</h1>
+);`
 
 export default function FirstSlide() {
     return (
         <Slide>
             <h3>Basic application data structures</h3>
-            <Lowlight value={codeExample} language="js" />
+            <div>
+                <JSX code={demoCode} />
+            </div>
         </Slide>
     )
 }
